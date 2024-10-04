@@ -1,6 +1,6 @@
 # README-FILE
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Rodrigues+Marcelino;I'm+16+years+old;I+am+from+Hortolandia,+SP;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Diego+Oliveira;I'm+16+years+old;I+am+from+Hortolandia,+SP;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
